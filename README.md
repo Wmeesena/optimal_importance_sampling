@@ -21,7 +21,11 @@ We want to show three main results from this simulation:
 - variance reduction 
 
 
+# Adjustable
+ 
 
+
+This pipeline can be applied to several 
 
 
 ## Experiment 1 
